@@ -30,15 +30,19 @@
 }
 
 .main_use, .main_mean {
+    width:200px;
+    height:100px;
     margin:30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .main_info {
     width:35px;
     height:35px;
     border-radius: 50%;
-    background-color: white;
-    opacity: 0.5;
+    background-color: #fe9797;
     display: flex;
     justify-content: center;
     align-items: center;
