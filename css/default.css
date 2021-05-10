@@ -5,6 +5,7 @@
   margin:0;
   padding:0;
 }
+
 .main_bar {
     width:100%;
     height:150px;
@@ -103,8 +104,6 @@
 .footer {
     text-align: center;
     background: #fe9797;
-    position: fixed;
-    bottom: 0;
     width: 100%;
     height: 60px;
     z-index: 99;
